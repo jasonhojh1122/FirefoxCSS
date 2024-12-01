@@ -2,32 +2,12 @@
     visibility: collapse;
 }
 
-#page-action-buttons {
-    order: 1 !important;
-}
-
-#tracking-protection-icon-container {
-    order: 2 !important;
-}
-
-#identity-box {
-    order: 3 !important;
-}
-
-.urlbar-input-box {
-    order: 5 !important;
-}
-
 #userContext-icons #userContext-label {
     visibility: collapse !important;
 }
 
-#userContext-icons {
-    order: -2 !important;
-}
-
 #pageAction-urlbar-jasonho_jason {
-    order: -1 !important;
+    order: 100 !important;
 }
 
 
